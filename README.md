@@ -6,5 +6,5 @@ Backend olarak nodejs kullanıldı : https://hash-chat.herokuapp.com/ adresinde 
 
 Kullanılan diller/teknolojiler: Javascript, HTML5, CSS3, JSX, ES6, NodeJS, ReactJS, Socket.io, Express ...
 
-İyi çalışmalr dilerim.
+İyi çalışmalar dilerim.
 
